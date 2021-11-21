@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "365924709427",
+    "project_id": "orarionegozi",
+    "storage_bucket": "orarionegozi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365924709427:android:81e6260753b5aa68b35f46",
+        "android_client_info": {
+          "package_name": "com.example.orari_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365924709427-t5bpnks086hn7ds5ehc8choa5krhf3jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPGSCn_omJuoFgmHQ145y0pgpl_mFrwls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365924709427-t5bpnks086hn7ds5ehc8choa5krhf3jn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
